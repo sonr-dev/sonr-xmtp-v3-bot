@@ -2,5 +2,8 @@
   "name": "sonr-xmtp-v3-bot",
   "version": "1.0.0",
   "type": "module",
-  "dependencies": {}
+  "dependencies": {
+    "@xmtp/node-sdk": "^0.0.6",
+    "ethers": "^6.11.1"
+  }
 }
